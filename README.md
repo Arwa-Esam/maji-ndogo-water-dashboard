@@ -107,6 +107,7 @@ Most of the demand comes from **rural communities**, which aligns with the overa
 ### 📸 Dashboard Preview (Akatsi Drill-Down)
 ![Akatsi Water Access Report](./Akatasi_Water_Access_Report.png)
 
+![Akatsi Water Access Report](./datamodel.png)
 
 
 
