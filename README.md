@@ -66,15 +66,14 @@ This dashboard answers key questions:
 ## **🛠 Tools & Skills Used**
 
 - **Power BI Desktop**
-- **Power Query Editor**
-- **DAX:** CALCULATE, FILTER, SUMX, SWITCH, DIVIDE
+- **DAX:**
 - **GeoJSON Map Integration**
-- **Interactive Dashboards** (slicers, buttons, bookmarks)
 - **Data Storytelling & Visualization Design**
 
 ---
 
 ## **📂 Repository Structure**
+![Dashboard Preview](/Dashboard1.png)
 
 
 
