@@ -76,6 +76,38 @@ This dashboard answers key questions:
 ![Dashboard Preview](/Dashboard1.png)
 
 
+## 🔎 Akatsi Region – Detailed Analysis
+
+As part of the Maji Ndogo water access project, this section provides a focused drill-down analysis for **Akatsi**.  
+The goal of this page is to understand how the improvement budget is distributed within the region, the number of required upgrades, and how rural vs. urban areas differ in water access needs.
+
+### 📊 Key Findings for Akatsi
+- **Total Improvements:** 4963 upgrades  
+- **Total Budget:** **$31.36M** allocated to the region  
+- **Highest-cost improvement:** Installing RO filters ($12M)  
+- **Most frequent improvement:**  
+  - Install RO filter → **2056 upgrades**  
+  - Repair infrastructure → **910 upgrades**
+- **Budget by Location:**  
+  - Rural areas receive **$28M**  
+  - Urban areas receive **$4M**
+- **Rural areas show the highest need**, especially for drilling wells and installing RO filters.
+
+### 🗂️ What this Dashboard Shows
+- Budget distribution by improvement type (donut chart)  
+- Budget distribution by rural vs. urban areas  
+- Table summarizing improvements, quantities, and budget  
+- Town-level population vs improvement needs  
+- Horizontal bar chart showing the count of improvements per type
+
+### 🎯 Insight Summary
+Akatsi requires significant investment in **RO filters, public taps, and repair work** to improve water quality and access.  
+Most of the demand comes from **rural communities**, which aligns with the overall trend in Maji Ndogo.
+
+### 📸 Dashboard Preview (Akatsi Drill-Down)
+![Akatsi Water Access Report](./Akatasi_Water_Access_Report.png)
+
+
 
 
 
